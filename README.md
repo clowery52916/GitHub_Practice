@@ -17,4 +17,14 @@ add info you want to add
 save the file in text editor 
 GO BACK TO ITERM
 
-1) 
+1) go back to iterm1) enter -- git add -A in folder you want to change 
+2) check git status to make sure code is ready to be commited
+3) enter - git commit -m "description of what you doing"
+
+To pull 
+
+1) go back to Iterm & under folder you need to be in enter 
+git pull origin master
+
+Annnd continue from there!! :) 
+

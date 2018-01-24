@@ -26,5 +26,17 @@ To pull
 1) go back to Iterm & under folder you need to be in enter 
 git pull origin master
 
+To push 
+
+to push all new code into GitHub
+
+git push origin master 
+
+
+NOTE: CHECK YOUR GIT STATUS OFTEN - YOU WILL NEED TO MAKE SURE YOU ALW
+HAVE A GREEN CHECK MARK! IF THERE IS ANYTHING IS RED YOU WILL NEED TO CH - ADD YOUR CODE - AND COMMIT 
+
+GIT ADD -A
+GIT COMMIT -M "WHAT CHANGED"
 Annnd continue from there!! :) 
 

@@ -1,4 +1,4 @@
-# TEST2
+# Git/GitHub practice
 Another test
 ### commands needed to get new repo's from GitHub from your terminal using Git! 
 1) Make a new repo in GitHub
